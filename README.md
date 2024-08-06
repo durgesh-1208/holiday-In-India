@@ -1,6 +1,6 @@
-# Travel India 
+# Holiday In India 
 A Simple Tourism or Travel Booking website using Html, Css & Javascript. <br/>
-Hello there, I'm Manthan Ugemuge and I made this Travel/Tourism Booking website.
+<!-- Hello there, I'm Manthan Ugemuge and I made this Travel/Tourism Booking website. -->
 
 - 🌐 This Website is made with `Html`, `CSS` & `Javascript`. 
 - It contains a `Homepage` with travel destination all over India and much more.
@@ -17,7 +17,7 @@ Hello there, I'm Manthan Ugemuge and I made this Travel/Tourism Booking website.
 
 <!-- ![API](https://img.shields.io/badge/API-005571?style=for-the-badge&logo=fastapi) -->
 
--`HTML`: The HyperText Markup Language, or HTML is the Standard markup languages for documents designed to be displayed in a Web Browser.
+<!-- -`HTML`: The HyperText Markup Language, or HTML is the Standard markup languages for documents designed to be displayed in a Web Browser.
 
 -`CSS`: CSS is the language we use to style an HTML document. CSS describes how HTML elements should be displayed.
 
@@ -98,4 +98,4 @@ This project is open-sourced under the [MIT license]().
 <a target="_blank" href="https://github.com/ManthanUgemuge"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>
 
 <br>
-</p>
+</p> -->
